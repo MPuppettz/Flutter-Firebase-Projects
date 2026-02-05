@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Mario Ananda Salim\\Downloads\\flutter_install\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Mario Ananda Salim\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\Mario Ananda Salim\\OneDrive\\Documents\\Coding\\Dart\\lab-flutter-basics-dart-meals-app-animation\\android\\app\\.cxx\\Debug\\64681ty5\\armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Mario Ananda Salim\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\Mario Ananda Salim\\OneDrive\\Documents\\Coding\\Dart\\lab-flutter-basics-dart-meals-app-animation\\android\\app\\.cxx\\Debug\\64681ty5\\armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

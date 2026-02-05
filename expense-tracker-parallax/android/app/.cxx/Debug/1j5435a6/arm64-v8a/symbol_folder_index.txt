@@ -1,0 +1,1 @@
+C:\Users\User\ss2025\lab-flutter-basics-dart-expense-tracker-parallax-example\build\app\intermediates\cxx\Debug\1j5435a6\obj\arm64-v8a

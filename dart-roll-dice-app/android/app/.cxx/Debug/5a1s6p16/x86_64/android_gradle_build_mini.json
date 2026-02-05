@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "C:\\Users\\User\\flutter\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\User\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\User\\ss2025\\lab\\lab-flutter-basics-dart-roll-dice-app-example\\android\\app\\.cxx\\Debug\\5a1s6p16\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\User\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\User\\ss2025\\lab\\lab-flutter-basics-dart-roll-dice-app-example\\android\\app\\.cxx\\Debug\\5a1s6p16\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

@@ -1,0 +1,1 @@
+ C:\\Users\\Mario\ Ananda\ Salim\\OneDrive\\Documents\\Coding\\Dart\\lab-flutter-basics-dart-expense-tracker-parallax\\.dart_tool\\flutter_build\\70110b2e64d176e633338017004d48ae\\native_assets.json: 

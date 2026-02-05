@@ -1,0 +1,2 @@
+C:/Users/User/ss2025/lab/lab-flutter-basics-dart-roll-dice-app-example/android/app/.cxx/Debug/5a1s6p16/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/User/ss2025/lab/lab-flutter-basics-dart-roll-dice-app-example/android/app/.cxx/Debug/5a1s6p16/armeabi-v7a/CMakeFiles/rebuild_cache.dir

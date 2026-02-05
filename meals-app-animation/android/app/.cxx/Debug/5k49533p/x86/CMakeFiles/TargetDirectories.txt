@@ -1,0 +1,2 @@
+C:/Users/jerry/ss_spring_2025/labs/lab-flutter-basics-dart-meals-app-animation/android/app/.cxx/Debug/5k49533p/x86/CMakeFiles/edit_cache.dir
+C:/Users/jerry/ss_spring_2025/labs/lab-flutter-basics-dart-meals-app-animation/android/app/.cxx/Debug/5k49533p/x86/CMakeFiles/rebuild_cache.dir
